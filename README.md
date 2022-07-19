@@ -15,5 +15,5 @@ sudo apt install zip
 
 And then
 ```
-rm docsearch/README.md; zip -r docsearch.zip ./docsearch
+zip -r docsearch.zip ./docsearch
 ```
