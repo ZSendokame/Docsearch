@@ -1,6 +1,6 @@
 # Docsearch
 Docsearch it's a **Firefox** addon who lets you search for function/library documentation in one Click!<br>
-*For now it just works with Python.*
+*For now it just works with Python and on GitHub/Gist.*
 
 # Installation
 ```sh
